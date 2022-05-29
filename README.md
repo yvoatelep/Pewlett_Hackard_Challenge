@@ -17,14 +17,11 @@ The goal of this analysis is determine the number of employees  and the position
 
 
 
-
-![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/refigured_analysis_1.png)
-
 Similarly, the results of the analysis of schools by spending ranges per student do not change in any detectable way when the THS 9th grade scores are removed from the averages. In both, the range in which Thomas falls, $631-$645 per student, have an average Math Scocre of  78.5, average Reading Schore of 81.6 and an overall passing rate of 63%
 
-![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/original%20analysis%202.png)
+![This is an image](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png)
 
-![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/refigured%20analysis%202.png)
+
 
 
 ## Summary
