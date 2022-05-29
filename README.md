@@ -13,7 +13,7 @@ The goal of this analysis is determine the number of employees  and the position
 
 *Complete numbers are found in the chart below.
 
-![This is an image][(https://github.com/yvoatelep/Pewlett_Hackard_Challenge/Images/Retiring_Titles .png](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png))
+![This is an image](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png)
 
 
 
