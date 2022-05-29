@@ -2,11 +2,10 @@
 # Deliverable 3 
 
 ## Overview and Purpose of the Analysis
-The goal of this analysis is to compare the average student performance of throughout the distric both with and without  Thomas High School 9th grade class, to better determine if cheating has taken place. The assumption would be that, if grades had been replaced with false grades for the THS 9th grade, then the averages without THS 9th grade would be lower than those with the 9th grade added
+The goal of this analysis is determine the number of employees  and the positions they occupy at Pewlett Hackard, who can reasonably be expected to retire in the coming 1 to 5 years. In addition, a mentorship program that will give employees nearing retirement the opportunity to train younger colleagues so hat they are better prepared to enter leadership positions has been proposed. This analysis includes numbers and names of employees by title, so that feasibility of this program can be determined and recruitment of mentors may begin. 
 
 ### Results
-According to the original analysis, Thomas High School was one of the top performing schools in the district with Average math scores of 83.4, Average Reading scores of 83.9, and an Overall passing rate for both Reading and Math of 90.9%
-![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/orig_analysis_1.png)
+![This is an image](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/Images/Retiring_Titles .png)
 When the Thomas High School 9th grade scores are removed and district analysis is recalculated, Thomas remaiins one of the top performing school.Average scores have changed only incrementally, with new Average math scores remaining 83.4, Average Reading scores still at 83.9, and an Overall passing rate for both Reading and Math of 90.6%
 ![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/refigured_analysis_1.png)
 
