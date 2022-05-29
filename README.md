@@ -6,9 +6,13 @@ The goal of this analysis is determine the number of employees  and the position
 
 ### Results
 *As would be expected, the most senior positions of Senior Engineer and Senior Staff have the most employees who will soon be ready for retirement. Each title has around 25,000 currrent employees coming up on retirement age. 
+
 *At the engineer and staff level, there are fewer employees ready for retirement, but still enough to create disruption and the need for planning. Both titles have  between 7500 and 10000 employees who will soon be eleigible to retire. 
+
 *The more junior positions of Technique Leader, Assistant Engineer and Manager have many fewer retiring employees.
+
 *Complete numbers are found in the chart below.
+
 ![This is an image][(https://github.com/yvoatelep/Pewlett_Hackard_Challenge/Images/Retiring_Titles .png](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png))
 
 
