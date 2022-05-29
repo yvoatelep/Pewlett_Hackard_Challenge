@@ -17,13 +17,17 @@ The goal of this analysis is determine the number of employees  and the position
 
 
 
-Similarly, the results of the analysis of schools by spending ranges per student do not change in any detectable way when the THS 9th grade scores are removed from the averages. In both, the range in which Thomas falls, $631-$645 per student, have an average Math Scocre of  78.5, average Reading Schore of 81.6 and an overall passing rate of 63%
+Fortunately, the results of the analysis of employees eligible to particpate in the mentoring program are also skewed toward these more senior positions as shown in the bar graph below. However, the descrepancy in numbers of eligible retirees and number of possible mentors for replacements is concerning, and will require planning and attention. 
+
+*At the level of Senior Staff there are about 500 availalbe employees that could qualify to be mentors. This is helpful, but still falls short of the almost 25,00 employees at this level who may be retiring in the coming years. 
+
+*The position of Senior Engineer is even more problematic, with only around 200 eligible mentors for a possible 25,000 openings in the coming years. 
+
+*The Engineer level, with almost 10,000 eligible retirees, has about 460 employees who would be eligible to be mentors in the coming years. 
 
 ![This is an image](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png)
 
 
-
-
 ## Summary
 
-Looking at these figures with Thomas High School 9th grades included and removed, I would conclude that it is highly unlikely that cheating occurred. The scores that were acheived by this 9th grade class are simlilar to other classes at THS, and at other schools similar in size and budget. The statistics for these analysis do not change appreciably with the figures for the 9th grade removed, and I would conclubde that cheating was not a factor in these scores.
+Looking at these numbers, it is clear that Pewlett Hackard needs to start preparing for the coming wave of retirement that is almost certainly inevitable in the coming years. The mentorhip program is feasible, with plenty of eligible mentors who could be offered a role in the program and may help prepare some replacements for these leadership positions. However, even with this program, replacement from within will clearly fall far short of the numbers that are required. PH will need to do some intensive, targeted recruitment over the coming year or two, to begin to replace this workforce. They may also decide to look at their numbers and efficiency and decide if more can be done with fewer employees in the future. 
