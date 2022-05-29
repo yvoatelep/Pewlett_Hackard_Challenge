@@ -5,8 +5,15 @@
 The goal of this analysis is determine the number of employees  and the positions they occupy at Pewlett Hackard, who can reasonably be expected to retire in the coming 1 to 5 years. In addition, a mentorship program that will give employees nearing retirement the opportunity to train younger colleagues so hat they are better prepared to enter leadership positions has been proposed. This analysis includes numbers and names of employees by title, so that feasibility of this program can be determined and recruitment of mentors may begin. 
 
 ### Results
+*As would be expected, the most senior positions of Senior Engineer and Senior Staff have the most employees who will soon be ready for retirement. Each title has around 25,000 currrent employees coming up on retirement age. 
+*At the engineer and staff level, there are fewer employees ready for retirement, but still enough to create disruption and the need for planning. Both titles have  between 7500 and 10000 employees who will soon be eleigible to retire. 
+*The more junior positions of Technique Leader, Assistant Engineer and Manager have many fewer retiring employees.
+*Complete numbers are found in the chart below.
 ![This is an image][(https://github.com/yvoatelep/Pewlett_Hackard_Challenge/Images/Retiring_Titles .png](https://github.com/yvoatelep/Pewlett_Hackard_Challenge/blob/main/Images/eligible_for_mentorship_by_Title.png))
-When the Thomas High School 9th grade scores are removed and district analysis is recalculated, Thomas remaiins one of the top performing school.Average scores have changed only incrementally, with new Average math scores remaining 83.4, Average Reading scores still at 83.9, and an Overall passing rate for both Reading and Math of 90.6%
+
+
+
+
 ![This is an image](https://github.com/yvoatelep/School_District_Analysis/blob/main/Resources/refigured_analysis_1.png)
 
 Similarly, the results of the analysis of schools by spending ranges per student do not change in any detectable way when the THS 9th grade scores are removed from the averages. In both, the range in which Thomas falls, $631-$645 per student, have an average Math Scocre of  78.5, average Reading Schore of 81.6 and an overall passing rate of 63%
